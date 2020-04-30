@@ -34,8 +34,8 @@ main {
 .HISTORY {
     display: block;
     padding-top: 380px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 10%;
+    padding-right: 10%;
     margin: 40px;
     letter-spacing: 3.25;
     text-shadow: black 1px 1px 0, black -1px -1px 0,
